@@ -122,7 +122,7 @@ TLDR; async / await is legit
 
   - takes asynchronous code and makes it synchronous
   - stuck on line until resolves the promise
-  - 🚧PROBLEM 🚧
+  - 🚧 PROBLEM 🚧
     - error breaks up whole application
     - need a new error handling pattern
       - try{} catch{}
@@ -131,7 +131,7 @@ TLDR; async / await is legit
         - array[1] = results
       - Scott Moss prefers the [] method
 
-## Server
+### Servers
 
 TLDR; one server handling all requests from client
 
