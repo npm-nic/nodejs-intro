@@ -4,4 +4,6 @@ Notes to accompany Scott Moss's Intro Node.js course on Frontend Masters
 
 https://frontendmasters.com/courses/node-js/
 
-## see notes.md 
+## Additional Notes
+
+See [notes.md](./notes.md)
